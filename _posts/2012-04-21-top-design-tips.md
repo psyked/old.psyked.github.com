@@ -1,13 +1,10 @@
 ---
 layout: post
-title: Top tips for effective Design
+title: Web Design Guidelines
+subtitle: Top tips for creating an Effective Website Design
 ---
 
-## What makes 'Good Design'?
-
-Is effective design, good design?
-
-### A Good Design only contains relevant elements.
+### 1. It only contains relevant elements.
 Call it minimalism if you like, but a good design - and all of the elements that combine to make the final design - should be relevant in the current context.
 
 There is a **balance** to be struck between a minimalist design, conventions and consistency of design, so don't imagine that each design *needs* to be completely different, but relevant functionality only, please. Remember:
@@ -15,11 +12,31 @@ There is a **balance** to be struck between a minimalist design, conventions and
 - Follow (or at least, don't contradict) **Conventions**.
 - Keep your designs **Consistent**.
 
-### 2. Understandable without reading
+### 2. It is understandable without the need for reading.
 
-### 3. Recognisable from silhoette only
+A good design is one that is able to convey the importance, grouping and purpose of elements of the page without the user having read all of the text on the page. Font size, use of whitespace and visual grouping are all ways of achieving extra levels of clarity.
 
-### 4. Predicatable actions
+An effective way to test this is to translate all of the page text into a completely different language - try Chinese, Russian or something else that's completely different to your current page language.
+
+To quickly test a website's 'understandability', you can use a Google Translate URL, such as this: `http://translate.google.com/translate?sl=auto&tl=zh-CN&u=http://psyked.github.com/top-design-tips`
+
+##### Where there is readable text, it is clear about what it does.
+
+As in Apple's design guidelines, buttons and hyperlinks should be verbose enough that there is no confusion about what actions those elements will trigger, so that the user can make an informed decision without the need for interpretation.
+
+### 3. User Interface Icons should be recognisable from their silhouette only.
+
+Icons are a great way to establish a look and feel for your website, but for icons to be effective they need to be distinct enough to convey their purpose as a silhouette only, without resorting to colour adaptations or complex bitmap content. 
+
+In addition, silhouette-based designs are better for accessibility, establishing a visual language, and can be made to look sharper in HTML5. Here's some examples from [GitHub](https://github.com/styleguide/css/7.0):
+
+>![picture](/assets/images/icon-examples.png)
+
+### 4. Actions have a predictable reaction.
+
+Across the whole of the website, all elements of a certain appearance should perform the same action.  It's particularly important for elements on the same page, and in the same grouping, but if one tab link performs an AJAX request, all should. If one button opens a modal popover, all should. Icons and colour schemes can be used to convey changes in behaviour whilst keeping an overall consistency of design. 
+
+Keeping things consistent improves the users' trust, and makes them more comfortable with your design.
 
 ### 5. Consistent baseline and grid
 

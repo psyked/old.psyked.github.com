@@ -28,7 +28,7 @@ As in Apple's design guidelines, buttons and hyperlinks should be verbose enough
 
 Icons are a great way to establish a look and feel for your website, but for icons to be effective they need to be distinct enough to convey their purpose as a silhouette only, without resorting to colour adaptations or complex bitmap content. 
 
-In addition, silhouette-based designs are better for accessibility, establishing a visual language, and can be made to look sharper in HTML5. Here's some examples from [GitHub](https://github.com/styleguide/css/7.0):
+In addition, silhouette-based designs are better for accessibility, establishing a visual language, and can be made to look sharper in HTML5. Here's some examples from [GitHub:](https://github.com/styleguide/css/7.0)
 
 >![picture](/assets/images/icon-examples.png)
 
@@ -38,8 +38,27 @@ Across the whole of the website, all elements of a certain appearance should per
 
 Keeping things consistent improves the users' trust, and makes them more comfortable with your design.
 
-### 5. Consistent baseline and grid
+### 5. It is designed on a grid system, with a consistent baseline.
+
+Most commonly (but not exclusively) a [960px grid](http://960.gs/), your design has a structured grid, and all of the text elements follow a simple vertical rhythm, just like you would have in a printed design. 
+
+#### Using a Grid System
+Splitting content up into a grid system is an effective way of partioning your content in a structured manner. It helps both the designer and developer understand the structure of the website and lay out the pages consistently and effectively.
+
+![picture](/assets/images/960-Grid-System.png)
+
+>Grids can accelerate progress whilst maintaining order.
+
+![picture](/assets/images/960-Grid-System-Overlay.png)
+
+#### Using a Baseline Grid
+Much like having a larger line spacing makes text easier to read;
+
+>In design, vertical rhythm is the structure that guides a reader’s eye through the content. Good vertical rhythm makes a layout more balanced and beautiful and its content more readable.
+
+Establishing a baseline in your design also (resportedly) helps you to [design faster.](http://www.teehanlax.com/blog/designing-faster-with-a-baseline-grid/)
 
 ### 6. Follows (appropriate) conventions
 
-### 7. Few clear types of component
+### 7. It uses components appropriately.
+Uses appropriate User Interface components, with each having a distinct appearance.

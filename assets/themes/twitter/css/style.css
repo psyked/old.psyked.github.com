@@ -1,6 +1,6 @@
 /* Override some defaults */
 html, body {
-  /*background-color: #eee;*/
+  background: #eee url('/assets/images/square_bg.png') top left repeat;
 }
 .navbar {
   margin-bottom: 0;

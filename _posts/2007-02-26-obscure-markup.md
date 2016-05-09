@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Web Design Guidelines
 subtitle: Top tips for creating an Effective Website Design
+title: Obscure Markup
 link: http://www.psyked.co.uk/obscure-markup/
 author: psyked_james
 description: 

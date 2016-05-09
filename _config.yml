@@ -2,7 +2,7 @@ name: psyked.github.com
 description: Blogging about stuffs
 meta_description: "Your New Jekyll Site, Blogging about stuffs"
 
-highlighter: pygments
+highlighter: rouge
 logo: false
 paginate: 15
 baseurl: /

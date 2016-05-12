@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Flex in a Week" with Adobe Media Player
+title: &#8220;Flex in a Week&#8221; with Adobe Media Player
 link: http://www.psyked.co.uk/flex-in-a-week-with-adobe-media-player/
 author: psyked_james
 description: 

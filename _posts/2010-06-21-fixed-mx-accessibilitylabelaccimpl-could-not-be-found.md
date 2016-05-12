@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Fixed: mx.accessibility&#58;LabelAccImpl could not be found.
+title: Fixed&#58; mx.accessibility&#58;LabelAccImpl could not be found.
 link: http://www.psyked.co.uk/fixed-mx-accessibilitylabelaccimpl-could-not-be-found/
 author: psyked_james
 description: 

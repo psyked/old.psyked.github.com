@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Link: Webcam Green Screen Effect with Pixel Bender
+title: Link&#58; Webcam Green Screen Effect with Pixel Bender
 link: http://www.psyked.co.uk/link-webcam-green-screen-effect-with-pixel-bender/
 author: psyked_james
 description: 

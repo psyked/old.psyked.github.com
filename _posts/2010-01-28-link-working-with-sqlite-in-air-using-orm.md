@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Link: Working with SQLite in AIR, with the help of ORM
+title: Link&#58; Working with SQLite in AIR, with the help of ORM
 link: http://www.psyked.co.uk/link-working-with-sqlite-in-air-using-orm/
 author: psyked_james
 description: 

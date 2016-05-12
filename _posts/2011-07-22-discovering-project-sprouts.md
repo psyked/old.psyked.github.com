@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Discovering: Project Sprouts
+title: Discovering&#58; Project Sprouts
 link: http://www.psyked.co.uk/discovering-project-sprouts/
 author: psyked_james
 description: 

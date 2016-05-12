@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Flex Quick Tip: Printing an Objects' contents
+title: Flex Quick Tip&#58; Printing an Objects' contents
 link: http://www.psyked.co.uk/flex-quick-tip-printing-an-objects-contents/
 author: psyked_james
 description: 

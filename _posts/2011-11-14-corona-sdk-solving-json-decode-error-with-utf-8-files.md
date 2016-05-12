@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Corona SDK: Solving JSON decode error with UTF-8 files.
+title: Corona SDK&#58; Solving JSON decode error with UTF-8 files.
 link: http://www.psyked.co.uk/corona-sdk-solving-json-decode-error-with-utf-8-files/
 author: psyked_james
 description: 

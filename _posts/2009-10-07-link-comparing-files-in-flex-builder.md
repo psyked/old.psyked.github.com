@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Link: Comparing files in Flex Builder
+title: Link&#58; Comparing files in Flex Builder
 link: http://www.psyked.co.uk/link-comparing-files-in-flex-builder/
 author: psyked_james
 description: 

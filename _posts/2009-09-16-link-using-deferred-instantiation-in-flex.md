@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Link: Using Deferred instantiation in Flex
+title: Link&#58; Using Deferred instantiation in Flex
 link: http://www.psyked.co.uk/link-using-deferred-instantiation-in-flex/
 author: psyked_james
 description: 

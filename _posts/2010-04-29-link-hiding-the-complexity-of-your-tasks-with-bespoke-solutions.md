@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Link: Hiding the complexity of your tasks with bespoke solutions.
+title: Link&#58; Hiding the complexity of your tasks with bespoke solutions.
 link: http://www.psyked.co.uk/link-hiding-the-complexity-of-your-tasks-with-bespoke-solutions/
 author: psyked_james
 description: 

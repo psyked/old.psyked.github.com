@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Tutorial Link: jQuery for Absolute Beginners
+title: Tutorial Link&#58; jQuery for Absolute Beginners
 link: http://www.psyked.co.uk/tutorial-link-jquery-for-absolute-beginners/
 author: psyked_james
 description: 

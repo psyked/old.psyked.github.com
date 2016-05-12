@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Link: Aviary - a set off imaging tools built on Flex
+title: Link&#58; Aviary - a set off imaging tools built on Flex
 link: http://www.psyked.co.uk/link-aviary-a-set-off-imaging-tools-built-on-flex/
 author: psyked_james
 description: 

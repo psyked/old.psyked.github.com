@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Link: Flash and the iPhone
+title: Link&#58; Flash and the iPhone
 link: http://www.psyked.co.uk/link-flash-and-the-iphone/
 author: psyked_james
 description: 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Link: Actionscript 3 - Don’t User the Timer to Make Timers
+title: Link&#58; Actionscript 3 - Don’t User the Timer to Make Timers
 link: http://www.psyked.co.uk/link-actionscript-3-dont-user-the-timer-to-make-timers/
 author: psyked_james
 description: 

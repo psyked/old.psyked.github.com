@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Link: Humans TXT
+title: Link&#58; Humans TXT
 link: http://www.psyked.co.uk/link-humans-txt/
 author: psyked_james
 description: 

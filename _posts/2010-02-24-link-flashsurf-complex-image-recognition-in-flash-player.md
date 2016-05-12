@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Link: FlashSURF - complex image recognition in Flash Player
+title: Link&#58; FlashSURF - complex image recognition in Flash Player
 link: http://www.psyked.co.uk/link-flashsurf-complex-image-recognition-in-flash-player/
 author: psyked_james
 description: 

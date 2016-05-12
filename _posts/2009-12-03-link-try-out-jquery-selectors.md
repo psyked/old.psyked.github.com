@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Link: Try out jQuery selectors
+title: Link&#58; Try out jQuery selectors
 link: http://www.psyked.co.uk/link-try-out-jquery-selectors/
 author: psyked_james
 description: 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Exempli Gratia : Using Tweener
+title: Exempli Gratia &#58; Using Tweener
 link: http://www.psyked.co.uk/exempli-gratia-using-tweener/
 author: psyked_james
 description: 

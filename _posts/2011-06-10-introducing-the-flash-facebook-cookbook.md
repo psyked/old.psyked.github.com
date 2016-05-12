@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Introducing: The Flash Facebook Cookbook
+title: Introducing&#58; The Flash Facebook Cookbook
 link: http://www.psyked.co.uk/introducing-the-flash-facebook-cookbook/
 author: psyked_james
 description: 

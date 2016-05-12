@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Link: Firebug: Beyond console.log()
+title: Link: Firebug&#58; Beyond console.log()
 link: http://www.psyked.co.uk/link-firebug-beyond-console-log/
 author: psyked_james
 description: 

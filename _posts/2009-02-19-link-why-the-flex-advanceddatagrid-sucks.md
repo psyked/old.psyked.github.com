@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Link: Why the Flex AdvancedDataGrid sucks
+title: Link&#58; Why the Flex AdvancedDataGrid sucks
 link: http://www.psyked.co.uk/link-why-the-flex-advanceddatagrid-sucks/
 author: psyked_james
 description: 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Link: 10 useful tools for developing, evaluating or debugging web pages.
+title: Link&#58; 10 useful tools for developing, evaluating or debugging web pages.
 link: http://www.psyked.co.uk/link-10-useful-tools-for-developing-evaluating-or-debugging-web-pages/
 author: psyked_james
 description: 

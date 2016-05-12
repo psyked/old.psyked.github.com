@@ -1,6 +1,6 @@
 ---
 layout: post
-title: About the Link: spam
+title: About the Link&#58; spam
 link: http://www.psyked.co.uk/about-the-link-spam/
 author: psyked_james
 description: 

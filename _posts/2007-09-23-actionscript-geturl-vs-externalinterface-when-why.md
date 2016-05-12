@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ActionScript: getURL vs. ExternalInterface - When & Why
+title: ActionScript&#58; getURL vs. ExternalInterface - When & Why
 link: http://www.psyked.co.uk/actionscript-geturl-vs-externalinterface-when-why/
 author: psyked_james
 description: 

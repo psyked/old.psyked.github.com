@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Minimal components: For when you don't feel like using Flex.
+title: Minimal components&#58; For when you don't feel like using Flex.
 link: http://www.psyked.co.uk/minimal-components-for-when-you-dont-feel-like-using-flex/
 author: psyked_james
 description: 

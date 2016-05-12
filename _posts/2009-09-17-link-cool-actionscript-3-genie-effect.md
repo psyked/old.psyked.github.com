@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Link: Cool Actionscript 3 'Genie' effect
+title: Link&#58; Cool Actionscript 3 'Genie' effect
 link: http://www.psyked.co.uk/link-cool-actionscript-3-genie-effect/
 author: psyked_james
 description: 

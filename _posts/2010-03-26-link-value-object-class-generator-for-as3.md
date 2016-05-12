@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Link: Value Object Class generator for ActionScript 3
+title: Link&#58; Value Object Class generator for ActionScript 3
 link: http://www.psyked.co.uk/link-value-object-class-generator-for-as3/
 author: psyked_james
 description: 

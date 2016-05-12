@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Link: Alright Adobe, here's what you do...
+title: Link&#58; Alright Adobe, here's what you do...
 link: http://www.psyked.co.uk/link-alright-adobe-heres-what-you-do/
 author: psyked_james
 description: 

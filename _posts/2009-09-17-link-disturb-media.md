@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Link: disturb media
+title: Link&#58; disturb media
 link: http://www.psyked.co.uk/link-disturb-media/
 author: psyked_james
 description: 

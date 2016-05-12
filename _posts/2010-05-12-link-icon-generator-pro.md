@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Link: Icon Generator Pro
+title: Link&#58; Icon Generator Pro
 link: http://www.psyked.co.uk/link-icon-generator-pro/
 author: psyked_james
 description: 

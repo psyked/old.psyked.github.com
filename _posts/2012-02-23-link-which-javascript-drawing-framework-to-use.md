@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Link: Which JavaScript drawing framework to use?
+title: Link&#58; Which JavaScript drawing framework to use?
 link: http://www.psyked.co.uk/link-which-javascript-drawing-framework-to-use/
 author: psyked_james
 description: 

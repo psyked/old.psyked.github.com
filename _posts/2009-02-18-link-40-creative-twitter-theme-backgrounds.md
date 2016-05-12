@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Link: 40 Creative Twitter Theme Backgrounds
+title: Link&#58; 40 Creative Twitter Theme Backgrounds
 link: http://www.psyked.co.uk/link-40-creative-twitter-theme-backgrounds/
 author: psyked_james
 description: 

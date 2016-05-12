@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Link: The Art of System Tray and Dock Icons
+title: Link&#58; The Art of System Tray and Dock Icons
 link: http://www.psyked.co.uk/link-the-art-of-system-tray-and-dock-icons/
 author: psyked_james
 description: 

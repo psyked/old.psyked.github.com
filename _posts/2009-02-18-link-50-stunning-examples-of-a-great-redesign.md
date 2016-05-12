@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Link: 50 Stunning Examples of a great redesign
+title: Link&#58; 50 Stunning Examples of a great redesign
 link: http://www.psyked.co.uk/link-50-stunning-examples-of-a-great-redesign/
 author: psyked_james
 description: 

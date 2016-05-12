@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Design Trends: Tabloid Pages
+title: Design Trends&#58; Tabloid Pages
 link: http://www.psyked.co.uk/design-trends-tabloid-pages/
 author: psyked_james
 description: 

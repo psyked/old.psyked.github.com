@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Link: Adobe Alchemy, is it ActionScript heresy?
+title: Link&#58; Adobe Alchemy, is it ActionScript heresy?
 link: http://www.psyked.co.uk/link-adobe-alchemy-is-it-actionscript-heresy/
 author: psyked_james
 description: 

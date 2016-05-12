@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How to: poach Pixel Bender filters.
+title: How to&#58; poach Pixel Bender filters.
 link: http://www.psyked.co.uk/how-to-poach-pixel-bender-filters/
 author: psyked_james
 description: 

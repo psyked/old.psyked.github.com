@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Git 101: Force-sensitive to Jedi padawan
+title: Git 101&#58; Force-sensitive to Jedi padawan
 link: http://www.psyked.co.uk/git-101-force-sensitive-to-jedi-padawan/
 author: psyked_james
 description: 

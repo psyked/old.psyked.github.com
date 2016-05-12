@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ImageSizer - feedback screen fail. :-/
+title: ImageSizer - feedback screen fail. &#58;-/
 link: http://www.psyked.co.uk/imagesizer-feedback-screen-fail/
 author: psyked_james
 description: 

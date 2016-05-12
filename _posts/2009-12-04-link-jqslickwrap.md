@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Link: jQSlickWrap
+title: Link&#58; jQSlickWrap
 link: http://www.psyked.co.uk/link-jqslickwrap/
 author: psyked_james
 description: 

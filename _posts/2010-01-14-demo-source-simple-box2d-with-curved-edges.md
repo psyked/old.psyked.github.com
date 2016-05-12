@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Demo & Source: Simple Box2D, with curved edges!
+title: Demo & Source&#58; Simple Box2D, with curved edges!
 link: http://www.psyked.co.uk/demo-source-simple-box2d-with-curved-edges/
 author: psyked_james
 description: 

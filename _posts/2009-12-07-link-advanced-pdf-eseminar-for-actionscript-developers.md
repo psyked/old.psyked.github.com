@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Link: Advanced PDF eSeminar for ActionScript developers
+title: Link&#58; Advanced PDF eSeminar for ActionScript developers
 link: http://www.psyked.co.uk/link-advanced-pdf-eseminar-for-actionscript-developers/
 author: psyked_james
 description: 

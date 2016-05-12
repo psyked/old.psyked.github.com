@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Link: Papervision3D wormhole in your webcam!
+title: Link&#58; Papervision3D wormhole in your webcam!
 link: http://www.psyked.co.uk/link-papervision3d-wormhole-in-your-webcam/
 author: psyked_james
 description: 

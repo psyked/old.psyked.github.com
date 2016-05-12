@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Link: the Flash Midlands user group
+title: Link&#58; the Flash Midlands user group
 link: http://www.psyked.co.uk/link-the-flash-midlands-user-group/
 author: psyked_james
 description: 

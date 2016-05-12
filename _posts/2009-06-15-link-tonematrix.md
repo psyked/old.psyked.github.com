@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Link: ToneMatrix
+title: Link&#58; ToneMatrix
 link: http://www.psyked.co.uk/link-tonematrix/
 author: psyked_james
 description: 

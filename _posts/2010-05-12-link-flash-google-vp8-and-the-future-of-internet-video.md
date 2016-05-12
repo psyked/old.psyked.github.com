@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Link: Flash, Google, VP8, and the future of internet video
+title: Link&#58; Flash, Google, VP8, and the future of internet video
 link: http://www.psyked.co.uk/link-flash-google-vp8-and-the-future-of-internet-video/
 author: psyked_james
 description: 

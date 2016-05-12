@@ -1,6 +1,6 @@
 ---
 layout: post
-title: FOTB: Intro sequence
+title: FOTB&#58; Intro sequence
 link: http://www.psyked.co.uk/fotb-intro-sequence/
 author: psyked_james
 description: 

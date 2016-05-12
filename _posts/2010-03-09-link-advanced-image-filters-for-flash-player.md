@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Link: Advanced image filters for Flash Player
+title: Link&#58; Advanced image filters for Flash Player
 link: http://www.psyked.co.uk/link-advanced-image-filters-for-flash-player/
 author: psyked_james
 description: 

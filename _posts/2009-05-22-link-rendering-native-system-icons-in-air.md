@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Link: Rendering native system icons in AIR
+title: Link&#58; Rendering native system icons in AIR
 link: http://www.psyked.co.uk/link-rendering-native-system-icons-in-air/
 author: psyked_james
 description: 

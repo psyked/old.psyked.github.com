@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Link: Flex - Creating Custom Components
+title: Link&#58; Flex - Creating Custom Components
 link: http://www.psyked.co.uk/link-flex-creating-custom-components/
 author: psyked_james
 description: 

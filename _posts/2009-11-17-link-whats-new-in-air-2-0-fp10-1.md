@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Link: What's new in AIR 2.0 & FP10.1
+title: Link&#58; What's new in AIR 2.0 & FP10.1
 link: http://www.psyked.co.uk/link-whats-new-in-air-2-0-fp10-1/
 author: psyked_james
 description: 

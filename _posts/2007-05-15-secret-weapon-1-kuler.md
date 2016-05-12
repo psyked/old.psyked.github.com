@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Secret Weapon 1 \: Kuler
+title: Secret Weapon 1 &#58; Kuler
 link: http://www.psyked.co.uk/secret-weapon-1-kuler/
 author: psyked_james
 description: 

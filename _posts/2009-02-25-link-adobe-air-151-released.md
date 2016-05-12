@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Link: Adobe AIR 1.5.1 released!
+title: Link&#58; Adobe AIR 1.5.1 released!
 link: http://www.psyked.co.uk/link-adobe-air-151-released/
 author: psyked_james
 description: 

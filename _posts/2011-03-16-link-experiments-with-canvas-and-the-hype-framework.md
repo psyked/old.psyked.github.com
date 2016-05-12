@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Link: Experiments with Canvas and the HYPE Framework
+title: Link&#58; Experiments with Canvas and the HYPE Framework
 link: http://www.psyked.co.uk/link-experiments-with-canvas-and-the-hype-framework/
 author: psyked_james
 description: 

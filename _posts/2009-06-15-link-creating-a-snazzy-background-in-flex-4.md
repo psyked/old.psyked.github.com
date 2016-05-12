@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Link: Creating a snazzy background in Flex 4
+title: Link&#58; Creating a snazzy background in Flex 4
 link: http://www.psyked.co.uk/link-creating-a-snazzy-background-in-flex-4/
 author: psyked_james
 description: 

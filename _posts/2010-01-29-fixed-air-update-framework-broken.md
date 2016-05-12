@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Fixed: AIR update framework broken!
+title: Fixed&#58; AIR update framework broken!
 link: http://www.psyked.co.uk/fixed-air-update-framework-broken/
 author: psyked_james
 description: 

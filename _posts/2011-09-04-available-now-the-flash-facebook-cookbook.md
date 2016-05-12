@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Available now: The Flash Facebook Cookbook
+title: Available now&#58; The Flash Facebook Cookbook
 link: http://www.psyked.co.uk/available-now-the-flash-facebook-cookbook/
 author: psyked_james
 description: 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: AIR Recipes: Tips and Tricks for AIR Application Development
+title: AIR Recipes&#58; Tips and Tricks for AIR Application Development
 link: http://www.psyked.co.uk/air-recipes-tips-and-tricks-for-air-application-development/
 author: psyked_james
 description: 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Link: The DOM Monster
+title: Link&#58; The DOM Monster
 link: http://www.psyked.co.uk/link-the-dom-monster/
 author: psyked_james
 description: 

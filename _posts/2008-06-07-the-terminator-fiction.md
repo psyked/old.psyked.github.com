@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Terminator: Fiction?
+title: The Terminator&#58; Fiction?
 link: http://www.psyked.co.uk/the-terminator-fiction/
 author: psyked_james
 description: 

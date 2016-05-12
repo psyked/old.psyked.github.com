@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Link: Developing an Agile Mind - Stress and Planning
+title: Link&#58; Developing an Agile Mind - Stress and Planning
 link: http://www.psyked.co.uk/link-developing-an-agile-mind-stress-and-planning/
 author: psyked_james
 description: 

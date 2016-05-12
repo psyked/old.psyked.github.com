@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Link: Moment.js
+title: Link&#58; Moment.js
 link: http://www.psyked.co.uk/link-moment-js/
 author: psyked_james
 description: 

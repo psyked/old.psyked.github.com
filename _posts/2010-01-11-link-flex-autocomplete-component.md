@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Link: Flex AutoComplete component
+title: Link&#58; Flex AutoComplete component
 link: http://www.psyked.co.uk/link-flex-autocomplete-component/
 author: psyked_james
 description: 

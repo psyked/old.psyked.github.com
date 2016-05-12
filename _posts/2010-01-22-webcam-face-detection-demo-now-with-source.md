@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Webcam Face detection demo: Now with source!
+title: Webcam Face detection demo&#58; Now with source!
 link: http://www.psyked.co.uk/webcam-face-detection-demo-now-with-source/
 author: psyked_james
 description: 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Building Bridges: Some solutions
+title: Building Bridges&#58; Some solutions
 link: http://www.psyked.co.uk/building-bridges-some-solutions/
 author: psyked_james
 description: 

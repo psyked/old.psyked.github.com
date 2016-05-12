@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Back to School: Top 10 Adobe Flex and AIR applications for students
+title: Back to School&#58; Top 10 Adobe Flex and AIR applications for students
 link: http://www.psyked.co.uk/back-to-school-top-10-adobe-flex-and-air-applications-for-students/
 author: psyked_james
 description: 

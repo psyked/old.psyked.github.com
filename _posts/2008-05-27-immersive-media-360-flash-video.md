@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Immersive Media : 360° Flash Video
+title: Immersive Media &#58; 360° Flash Video
 link: http://www.psyked.co.uk/immersive-media-360-flash-video/
 author: psyked_james
 description: 

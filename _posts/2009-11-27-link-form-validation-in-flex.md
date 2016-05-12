@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Link: Form Validation in Flex
+title: Link&#58; Form Validation in Flex
 link: http://www.psyked.co.uk/link-form-validation-in-flex/
 author: psyked_james
 description: 

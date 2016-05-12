@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Link: Blogging hints for small businesses
+title: Link&#58; Blogging hints for small businesses
 link: http://www.psyked.co.uk/link-blogging-hints-for-small-businesses/
 author: psyked_james
 description: 

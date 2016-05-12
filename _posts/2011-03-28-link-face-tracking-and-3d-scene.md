@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Link: Face-tracking and 3D Scene
+title: Link&#58; Face-tracking and 3D Scene
 link: http://www.psyked.co.uk/link-face-tracking-and-3d-scene/
 author: psyked_james
 description: 

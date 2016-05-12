@@ -1,6 +1,6 @@
 ---
 layout: post
-title: I'm going to FLEX:CAMP
+title: I'm going to FLEX&#58;CAMP
 link: http://www.psyked.co.uk/im-going-to/
 author: psyked_james
 description: 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Link: Interesting application for making games..
+title: Link&#58; Interesting application for making games..
 link: http://www.psyked.co.uk/link-interesting-application-for-making-games/
 author: psyked_james
 description: 

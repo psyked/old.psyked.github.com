@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Goo: Yay for great game design!
+title: Goo&#58; Yay for great game design!
 link: http://www.psyked.co.uk/goo-yay-for-great-game-design/
 author: psyked_james
 description: 

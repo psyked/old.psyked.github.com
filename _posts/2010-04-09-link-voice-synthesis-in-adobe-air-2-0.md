@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Link: Voice synthesis in Adobe AIR 2.0
+title: Link&#58; Voice synthesis in Adobe AIR 2.0
 link: http://www.psyked.co.uk/link-voice-synthesis-in-adobe-air-2-0/
 author: psyked_james
 description: 

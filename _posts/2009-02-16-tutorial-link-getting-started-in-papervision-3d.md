@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Tutorial link: Getting started in Papervision 3D
+title: Tutorial link&#58; Getting started in Papervision 3D
 link: http://www.psyked.co.uk/tutorial-link-getting-started-in-papervision-3d/
 author: psyked_james
 description: 

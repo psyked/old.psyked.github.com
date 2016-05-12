@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How to: Post images to TwitPic with Actionscript
+title: How to&#58; Post images to TwitPic with Actionscript
 link: http://www.psyked.co.uk/how-to-post-images-to-twitpic-with-actionscript/
 author: psyked_james
 description: 

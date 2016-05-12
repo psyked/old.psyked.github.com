@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Video Tutorial Link(s): Getting started with Regex
+title: Video Tutorial Link(s)&#58; Getting started with Regex
 link: http://www.psyked.co.uk/video-tutorial-links-getting-started-with-regex/
 author: psyked_james
 description: 

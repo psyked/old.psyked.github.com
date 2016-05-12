@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Video Link: Adobe AIR and the future of Multitouch
+title: Video Link&#58; Adobe AIR and the future of Multitouch
 link: http://www.psyked.co.uk/video-link-adobe-air-and-the-future-of-multitouch/
 author: psyked_james
 description: 

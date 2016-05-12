@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Link: Name your loops
+title: Link&#58; Name your loops
 link: http://www.psyked.co.uk/link-name-your-loops/
 author: psyked_james
 description: 

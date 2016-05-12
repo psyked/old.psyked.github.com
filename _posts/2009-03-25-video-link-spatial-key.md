@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Video Link: Spatial Key
+title: Video Link&#58; Spatial Key
 link: http://www.psyked.co.uk/video-link-spatial-key/
 author: psyked_james
 description: 

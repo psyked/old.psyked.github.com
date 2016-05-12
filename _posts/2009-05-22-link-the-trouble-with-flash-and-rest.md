@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Link: The trouble with Flash and REST
+title: Link&#58; The trouble with Flash and REST
 link: http://www.psyked.co.uk/link-the-trouble-with-flash-and-rest/
 author: psyked_james
 description: 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Link: EFFlex - Designer Effects for Flex
+title: Link&#58; EFFlex - Designer Effects for Flex
 link: http://www.psyked.co.uk/link-efflex-designer-effects-for-flex/
 author: psyked_james
 description: 

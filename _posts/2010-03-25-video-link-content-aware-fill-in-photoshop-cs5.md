@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Video link: Content-aware Fill in Photoshop CS5
+title: Video link&#58; Content-aware Fill in Photoshop CS5
 link: http://www.psyked.co.uk/video-link-content-aware-fill-in-photoshop-cs5/
 author: psyked_james
 description: 

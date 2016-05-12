@@ -1,6 +1,6 @@
 ---
 layout: post
-title: FOTB: Day Zero
+title: FOTB&#58; Day Zero
 link: http://www.psyked.co.uk/fotb-day-zero/
 author: psyked_james
 description: 

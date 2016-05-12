@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Link: Introducing ZaaIL – 40+ Image format support for Flash
+title: Link&#58; Introducing ZaaIL – 40+ Image format support for Flash
 link: http://www.psyked.co.uk/link-introducing-zaail-40-image-format-support-for-flash/
 author: psyked_james
 description: 

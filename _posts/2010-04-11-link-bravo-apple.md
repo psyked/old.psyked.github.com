@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Link: Bravo, Apple
+title: Link&#58; Bravo, Apple
 link: http://www.psyked.co.uk/link-bravo-apple/
 author: psyked_james
 description: 

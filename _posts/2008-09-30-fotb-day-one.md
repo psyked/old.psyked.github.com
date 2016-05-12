@@ -1,6 +1,6 @@
 ---
 layout: post
-title: FOTB: Day One
+title: FOTB&#58; Day One
 link: http://www.psyked.co.uk/fotb-day-one/
 author: psyked_james
 description: 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Holy Grail: Cross-browser JavaScript Unit Testing with Code Coverage Metrics
+title: The Holy Grail&#58; Cross-browser JavaScript Unit Testing with Code Coverage Metrics
 link: http://www.psyked.co.uk/the-holy-grail-cross-browser-javascript-unit-testing-with-code-coverage-metrics/
 author: psyked_james
 description: 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Link: Google creates programming language to simplify application development
+title: Link&#58; Google creates programming language to simplify application development
 link: http://www.psyked.co.uk/link-google-creates-programming-language-to-simplify-application-development/
 author: psyked_james
 description: 

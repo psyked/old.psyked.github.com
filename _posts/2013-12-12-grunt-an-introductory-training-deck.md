@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Grunt: An introductory training deck
+title: Grunt&#58; An introductory training deck
 link: http://www.psyked.co.uk/grunt-an-introductory-training-deck/
 author: psyked_james
 description: 

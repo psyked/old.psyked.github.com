@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Talking about: Flex Gumbo - new features
+title: Talking about&#58; Flex Gumbo - new features
 link: http://www.psyked.co.uk/talking-about-flex-gumbo-new-features/
 author: psyked_james
 description: 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Link: Computer mind control with ActionScript 3.0
+title: Link&#58; Computer mind control with ActionScript 3.0
 link: http://www.psyked.co.uk/link-computer-mind-control-with-actionscript-3-0/
 author: psyked_james
 description: 

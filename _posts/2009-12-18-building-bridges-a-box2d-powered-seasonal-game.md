@@ -1,6 +1,6 @@
 ---
 layout: post
-title: &#8220;Building Bridges&#8221;, a Box2D - powered Seasonal Game
+title: &#8220;Building Bridges&#8221;, a Box2D &#8211; powered Seasonal Game
 link: http://www.psyked.co.uk/building-bridges-a-box2d-powered-seasonal-game/
 author: psyked_james
 description: 
